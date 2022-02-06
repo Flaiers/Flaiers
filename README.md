@@ -8,4 +8,4 @@
 &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=flaiers&count_private=true&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=flaiers&layout=compact&hide=c%23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=flaiers&layout=compact&hide=c%23&card_width=445)
