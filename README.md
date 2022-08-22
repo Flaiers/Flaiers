@@ -3,7 +3,7 @@
 - 💻 Core Stack: **Python, Go**. Mainly focused on Backend & DevOps
 - 🧑🏻‍💻 [Telegram](https://t.me/flaiers) | [Instagram](https://www.instagram.com/flaiers_official) | [Medium](https://flaiers.medium.com) | [LinkedIn](https://www.linkedin.com/in/flaiers)
 - 🔥 Interested in Blockchain & Architecture
-- 💼 I’m currently working at [@Line](https://github.com/line-rus)
+- 💼 I’m currently working at [@DNA](https://github.com/line-rus)
 - 💬 Ask me about anything [here](https://github.com/flaiers/flaiers/issues)
 
 &nbsp;
