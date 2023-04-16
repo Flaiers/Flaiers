@@ -1,6 +1,6 @@
 # Maxim Bigin ([@Flaiers](https://github.com/flaiers)) 👋
 
-- 👨🏻‍💻 Core Stack: **Go, SQL, Python**
+- 👨‍💻 Core Stack: **Go, SQL, Python**
 - 💼 Mainly focused on Backend & Management
 - 🔥 Interested in Blockchain & Architecture
 - 💬 Ask me about anything [here](https://flaiers.t.me)
