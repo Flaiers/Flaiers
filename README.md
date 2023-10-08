@@ -3,7 +3,7 @@
 - 👨‍💻 Core Stack: **Go, SQL, Python**
 - 💼 Mainly focused on Backend & Management
 - 🔥 Interested in Blockchain & Architecture
-- 💬 Ask me about anything [here](https://flaiers.t.me)
+- ⏰ 4+ years expirience in backend development
 
 <details>
   <p><summary>More...</summary></p>
