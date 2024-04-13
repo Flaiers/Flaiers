@@ -1,4 +1,4 @@
-# Maxim Bigin ([@Flaiers](https://github.com/flaiers)) 👋
+# Max Bigin ([@Flaiers](https://github.com/flaiers)) 👋
 
 - 👨‍💻 Core Stack: **Go, SQL, Python**
 - 🔥 Interested in E-commerce & Architecture
