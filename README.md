@@ -3,7 +3,7 @@
 - 👨‍💻 Core Stack: **Go, SQL, Python**
 - 🔥 Interested in E-commerce & Architecture
 - 💼 Mainly focused on Backend & Management
-- ⏰ 4+ years expirience in backend development
+- ⏰ 5+ years of software engineering experience
 
 <details>
   <p><summary>More...</summary></p>
